@@ -30,7 +30,7 @@
     "browserify": "^13.3.0",
     "filesaver.js": "^0.2.0",
     "js-base64": "^2.1.9",
-    "mocha": "^3.4.2",
+    "mocha": "^3.5.3",
     "topojson": "^2.2.0",
     "uglify-js": "^3.0.25"
   }
